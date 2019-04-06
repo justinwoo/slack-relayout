@@ -10,6 +10,3 @@ function log(msg) {
 
 document.body.style.minWidth = 0;
 log("removed body minWidth");
-
-var listContainer = document.querySelector(".client_channels_list_container");
-listContainer.style.order = 2;
